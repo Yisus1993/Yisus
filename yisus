@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Cómo ver el código Html de cualquier página web</title>
+  <meta name="description" content="Cómo ver el código Html de cualquier página web para estudiar su funcionamiento">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/comunes/estilos.css">
+  <script src="/modernizr.js"></script>
+  <script src="/comunes/prefixfree.min.js"></script>
+  <link rel="alternate" title="comocreartuweb.com RSS" href="http://www.comocreartuweb.com/rss.xml" type="application/rss+xml">
+  <link rel="image_src" href="http://www.comocreartuweb.com/imagenes/comocreartuweb-fb.png">
+  <link rel="author" href="https://plus.google.com/110308828470746296215">
+  <meta name="robots" content="index, follow">
+  <style>
+    <!--
+      div div #estilo13i01i08i00 {font-weight:bold; color:red;}
+      #secciones a.seccion13i01{font-weight:bold;color:red}
+      div div #desvinculado13 {background-image: url(/imagenes/comunes/estilo1024/lengueta-activa-desvinculado.gif)}
+      div div #lengueta13 {background-image:url(/imagenes/comunes/estilo1024/sprites1.gif);background-position:-300px -69px;}
+      #flotante .subseccion{padding-left:0.5em}
+      #flotante .apartado{padding-left:1.5em}
+      #lengueta13{font-weight:bold}
+      #hueco-flotante{height:33.9em}
+      #facebooklikebox{height:380px;width:280px;}
+      #facebooklikebox h2{text-indent:0;font-size:1.1em}
+      -->
+  </style>
+</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1841319-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script src="/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Utilizamos cookies para analizar tu navegacion. Si continuas navegando entiendo que aceptas su uso, oki?',
+      'Cerrar', 'Detalles', 'http://www.comocreartuweb.com/acerca-de/politica-y-normas-de-cctw.html');
+  });
+</script>
+<div id="contenido">
+  <a id="top"> </a>
+  <div id="bajado">
+    <div id="cuerpo">
+      <div id="cuerpo-cent">
+        <div id="cuerpo-central-curva-sup"></div>
+        <div id="contenidos">
+          <div class="paso"></div>
+          <div id="hueco-flotante"></div>
+          <h1 id="enlinea">Cómo ver el código Html de cualquier página web?</h1><div class="g-plusone" data-size="small"></div>
+          <div id="webself">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- CCTW bajo titular NO INDEX con menu -->
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:320px;height:100px"
+                 data-ad-client="ca-pub-9883707076618006"
+                 data-ad-slot="6122142196"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </div>
+          <div id="textos">
+<p>Como verás, estas lecciones están explicadas para quien no tiene ni idea. Si tú ya sabes <b>ver el código Html de una página web</b> puedes pasar sin miedo a la página siguiente. Si tienes tus dudas, mejor lee estas notas. El curso te va a costar lo mismo de modo que... aprovechate! je je.</p>
+
+<p>Aunque te parezca una chorrada mirar el código Html de una página web pronto verás que resulta muy útil, tanto para corregir errores en tus páginas como para ver cómo narices una web que te ha gustado a podido hacer alguna cosa. Una vez que domines un poco más el diseño de páginas web, aprenderás mucho más cotilleando el código Html de otras páginas.</p>
+
+<p>La forma más sencilla de ver el código Html de una página web es haciendo clic en las opciones que aparecen normalmente en la barra de herramientas superior de cualquier navegador. La opción concreta dependerá de cuál sea el navegador que estás usando.</p>
+
+<p>Si usas el <a title="Quieres descargarte el Internet Explorer?" href="http://windows.microsoft.com/es-ES/internet-explorer/downloads/ie" target="_blank">Internet Explorer</a> puedes ver el código haciendo clic en <b>Ver > Código Fuente</b>.</p>
+
+<p>Cuando pongo esta flechita "<b>></b>" es para indicar que primero se hace clic en la opción Ver y al abrirse el desplegable con otras opciones, se toma la opción Código Fuente. Te enseño una imagen para que lo tengas más claro:</p>
+
+<img height="369px" alt="htmlkit ver codigo fuente" src="/imagenes/175-ver-codigo-html.gif" width="414px" />
+
+<p>Si en cambio estás usando el <a title="Quieres descargarte el Firefox?" href="http://www.mozilla-europe.org/es/firefox/" target="_blank">Firefox</a>, la opción está en <b>Ver > Código Fuente de la Página</b> o teclas Control + U.</p>
+
+<p>Para el navegador <a title="Quieres descargarte el Opera?" href="http://www.opera.com/download/" target="_blank">Opera</a>, el código Html lo tienes en <b>Ver + Código Fuente</b> o pulsando las teclas Control + F3.</p>
+
+<p>Como ves, son todos parecidos y por supuesto, el código mostrado ha de ser idéntico. Haz la prueba con esta misma página, o con el ejemplo de la página anterior, y así compruebas el código del ejemplo, oki?</p>
+          </div>
+          <div id="flotante">
+          <h2>Lección 1:</h2>
+          <ul><li><a class="subseccion" href="../web-paso-a-paso.html">Web Paso a Paso</a></li><li><a class="subseccion" id="estilo13i01i01i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/descargar-html-kit.html">Descargar Html-Kit</a></li><li><a class="subseccion" id="estilo13i01i02i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/instalacion.html">Instalación</a></li><li><a class="subseccion" id="estilo13i01i03i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/configuracion.html">Configuración</a></li><li><a class="subseccion" id="estilo13i01i04i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/en-espanol.html">En Español</a></li><li><a class="subseccion" id="estilo13i01i05i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/simplificando.html">Simplificando</a></li><li><a class="subseccion" id="estilo13i01i06i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/preferencias.html">Preferencias</a></li><li><a class="subseccion" id="estilo13i01i07i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/el-codigo-html.html">El código HTML</a></li><li><a class="subseccion" id="estilo13i01i08i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/mirando-el-html.html">Mirándo el Html</a></li><li><a class="subseccion" id="estilo13i01i09i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/orden-orden-orden.html">Orden, orden, orden</a></li><li><a class="subseccion" id="estilo13i01i10i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/el-sitio-local.html">El Sitio Local</a></li><li><a class="subseccion" id="estilo13i01i11i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/mi-primera-pagina.html">Mi Primera Página</a></li><li><a class="subseccion" id="estilo13i01i12i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/mi-primer-parrafo.html">Mi Primer Párrafo</a></li><li><a class="subseccion" id="estilo13i01i13i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/mi-primer-enlace.html">Mi Primer Enlace</a></li><li><a class="subseccion" id="estilo13i01i14i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/la-hoja-de-estilos.html">La Hoja de Estilos.</a></li><li><a class="subseccion" id="estilo13i01i15i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/enlazar-estilos.html">Enlazar Estilos</a></li><li><a class="subseccion" id="estilo13i01i16i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/fondos-en-css.html">Fondos en CSS</a></li><li><a class="subseccion" id="estilo13i01i17i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/fondo-de-ejemplo.html">Fondo de Ejemplo</a></li><li><a class="subseccion" id="estilo13i01i18i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/insertar-imagen.html">Insertar Imagen</a></li><li><a class="subseccion" id="estilo13i01i19i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/enlace-de-e-mail.html">Enlace de E-Mail</a></li><li><a class="subseccion" id="estilo13i01i20i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/imagenes-y-css.html">Imágenes y CSS</a></li><li><a class="subseccion" id="estilo13i01i21i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/centrar-parrafos.html">Centrar Párrafos</a></li><li><a class="subseccion" id="estilo13i01i22i00" href="../../../../ejemplo-con-divs/web-paso-a-paso/y-de-momento.html">y de momento...</a></li></ul>
+          </div>
+          <div id="arrows">
+            <div id="atras">
+              <a href="../../ejemplo-con-divs/web-paso-a-paso/el-codigo-html.html" title="El código HTML">
+                <img src="/imagenes/comunes/estilo1024/atras.png" width="30" height="12" alt="El código HTML">
+              </a>
+            </div>
+            <div id="arriba">
+              <a href="#top" title="Ir Arriba">
+                <img src="/imagenes/comunes/estilo1024/arriba.png" width="30" height="12" alt="Ir Arriba">
+              </a>
+            </div>
+            <div id="adelante">
+              <a href="../../ejemplo-con-divs/web-paso-a-paso/orden-orden-orden.html" title="Orden, orden, orden">
+                <img src="/imagenes/comunes/estilo1024/adelante.png" width="30" height="12" alt="Orden, orden, orden">
+              </a>
+            </div>
+          </div>
+          <div id="publicidadbajoflechasinferiores">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9883707076618006";
+/* CCTW texto inferior */
+google_ad_slot = "5529199218";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+          </div>
+        </div>
+        <div id="cuerpo-central-curva-inf"></div>
+      </div>
+      <div class="paso"></div>
+    </div>
+
+    <div id="opciones-inferior">
+      <div class="paso"></div>
+        <div id="redes">
+          <a href="http://www.facebook.com/ComoCrearTuWeb" title="S&iacute;guenos en Facebook" target="_blank">
+            <img src="/imagenes/comunes/estilo1024/facebook.jpg" width="20" height="20" alt="S&iacute;guenos en FaceBook">
+          </a>
+          <a href="http://twitter.com/#!/ComoCrearTuWeb" title="S&iacute;guenos en Twitter" target="_blank">
+            <img src="/imagenes/comunes/estilo1024/twitter.jpg"  width="20" height="20" alt="S&iacute;guenos en Twitter">
+          </a>
+          <a rel="author" href="https://profiles.google.com/110308828470746296215" title="S&iacute;guenos en Google+" target="_blank">
+            <img src="/imagenes/comunes/estilo1024/gplus32.png" width="20" height="20" alt="S&iacute;guenos en Google+">
+          </a>
+        </div>
+        <div id="allinhosting">
+          <a href="http://allinhosting.com/cs/aff.php?aff=010" target="_blank">
+            <img src="/imagenes/comunes/estilo1024/allinhosting.png" width="156" height="67" alt="alojamientos web en Allinhosting.com">
+          </a>
+        </div>
+        <div id="libre">
+<!-- Publi medio bajo -->
+<!--   -->
+        </div>
+        <div id="sered">
+          <a href="http://clientes.sered.net/aff.php?aff=002" target="_blank">
+            <img src="/imagenes/comunes/estilo1024/sered.png" width="167" height="67" alt="alojamientos web en sered.net">
+          </a>
+        </div>
+        <div class="paso"></div>
+      </div>
+      <div id="enlaces">
+        <a href="http://www.actiweb.es" title="P&aacute;gina web gratis" target="_blank">P&aacute;gina web gratis</a> |
+        <a href="http://es.wix.com?utm_campaign=se_lb_es_http://www.comocreartuweb.com&experiment_id=cpwg" title="crear paginas web gratis" target="_blank">crear paginas web gratis</a> |       
+        <a href="http://wordpress.comocreartuweb.com" title="Tutorial de WordPress" target="_blank">Tutorial WordPress</a>
+      </div>
+      <div id="pie">
+        <div id="mapa">
+          <a id="desvinculado17" href="/archivo-cctw.html">Archivo </a>
+        </div>
+        <div id="enlacesdelpie">
+          <a href="/mapaweb.html" target="_blank">Mapa de la Web</a>
+        </div>
+        <div id="politica">
+          <a href="/acerca-de/politica-y-normas-de-cctw.html" target="_blank" rel="nofollow">Pol&iacute;tica y Normas</a>
+        </div>
+        <div id="copyright">Copyright &copy; 2005-2013 comocreartuweb.com</div>
+        <div class="paso"></div>
+      </div>
+      <div id="contenido-curva-inferior"></div>
+    </div>
+    <div id="subido">
+      <div id="rss">
+        <a href="/rss.xml">
+          <img height="40" width="24" src="/imagenes/comunes/estilo1024/rss.png" alt="Mantente informado de las actualizaciones de CCTW">
+        </a>
+      </div>
+      <div id="contenido-curva-superior"></div>
+      <div id="banners">
+        <div id="banner1">
+          <a href="/">
+            <img src="/comunes/como-crear-tu-web.jpg" width="186" height="62" alt="www.comocreartuweb.com - Todo lo que necesitas saber para crear una página web. Solo necesitas saber usar el ratón, lo demás lo tienes aquí.">
+          </a><br>
+          <a id="desvinculado15" href="/acerca-de.html">Acerca de... </a><a id="desvinculado16" href="/consultas">Foro CCTW </a>
+    </div>
+    <div id="publicidadenheader">
+<IFRAME SRC="http://ad.doubleclick.net/ddm/adi/N34703.1941916COMOCREARTUWEB.COM/B8599899.117791666;sz=728x90;ord=[timestamp]?" WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/ddm/adj/N34703.1941916COMOCREARTUWEB.COM/B8599899.117791666;abr=!ie;sz=728x90;ord=[timestamp]?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/ddm/jump/N34703.1941916COMOCREARTUWEB.COM/B8599899.117791666;abr=!ie4;abr=!ie5;sz=728x90;ord=[timestamp]?">
+<IMG SRC="http://ad.doubleclick.net/ddm/ad/N34703.1941916COMOCREARTUWEB.COM/B8599899.117791666;abr=!ie4;abr=!ie5;sz=728x90;ord=[timestamp]?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement"></A>
+</NOSCRIPT>
+</IFRAME>
+
+    </div>
+  </div>
+  <div id="lenguetas">
+    <div id="temas-arriba">
+      <div id="lengueta01">
+        <a href="../../antes-de-empezar.html" title="Tutoriales, trucos y lecciones detalladas paso a paso y explicadas desde cero para aprender a crear una página web, hacer logotipos, diseñar plantillas, etc.">Antes de Empezar</a>
+      </div>
+      <div id="lengueta02">
+        <a href="../../curso-de-html.html" title="Curso de HTML5 sencillo, detallado, paso a paso y gratis. Tutorial con ejemplos reales para optimizar tu pagina web en comocreartuweb.com">Curso de HTML5</a>
+      </div>
+      <div id="lengueta03">
+        <a href="../../curso-de-estilos-css.html" title="Aprender CSS con este tutorial o curso de Estilos te va a resultar muy sencillo y fácil. Todo paso a paso, desde cero y, gratuito!">Curso de Estilos CSS</a>
+      </div>
+      <div id="lengueta04">
+        <a href="../../curso-php-y-msql.html" title="Curso completo de Php y MySQL paso a paso, desde cero, con ejemplos y.. gratuito!">Curso Php y MSQL</a>
+      </div>
+      <div id="lengueta05">
+        <a href="../../curso-de-javascript.html" title="Curso de JavaScript detallado paso a paso, y gratis!">Curso de JavaScript</a>
+      </div>
+      <div id="lengueta06">
+        <a href="../../curso-gratis-de-jquery.html" title="Aprende jQuery con este curso para saber dar dinamismo a tus páginas web">Curso de jQuery</a>
+      </div>
+      <div id="lengueta07">
+        <a href="../../curso-photoshop-cs5.html" title="Tutorial paso a paso para aprender a usar el Photoshop CS5.">Curso de Photoshop</a>
+      </div>
+    </div>
+    <div id="temas-abajo">
+      <div id="lengueta08">
+        <a href="../../../promocion-de-webs.html" title="Aumentar el tráfico de visitas de tus visitantes con técnicas SEO y SEM. Métodos de promoción de páginas web explicados con detalle, y gratis.">Promoción  de Webs</a>
+      </div>
+      <div id="lengueta09">
+        <a href="../../../hosting-y-dominios.html" title="Aprende todo sobre Hosting y Dominios para tus páginas web">Hosting y Dominios</a>
+      </div>
+      <div id="lengueta10">
+        <a href="../../../herramientas-utiles.html" title="Herramientas Útiles para Tu Página Web. Programas de FTP, editores de código HTML, PHP, etc, retoque de imágenes, navegadores varios y muchos más.">Herramientas Útiles</a>
+      </div>
+      <div id="lengueta11">
+        <a href="../../../rentabilizar-webs.html" title="Consejos y métodos para hacer dinero con una página web">Rentabilizar Webs</a>
+      </div>
+      <div id="lengueta12">
+        <a href="../../../ejemplo-con-tablas.html" title="Aprende a crear una página web completa usando tablas">Ejemplo con Tablas</a>
+      </div>
+      <div id="lengueta13">
+        <a href="../../../ejemplo-con-divs.html" title="Aprender a hecer una página web utilizandi divs o capas, lecciones gratuitas paso a paso para crear tus páginas web.">Ejemplo con Divs</a>
+      </div>
+      <div id="lengueta14">
+        <a href="../../../proyecto-completo.html" title="Proyecto Completo">Proyecto Completo</a>
+      </div>
+    </div>
+    <div id="secciones">
+      <a class="seccion13i01" href="../../ejemplo-con-divs/web-paso-a-paso.html" title="Aprender a Crear una Página Web Paso a Paso">Lección 1</a>
+      <a class="seccion13i02" href="../../ejemplo-con-divs/la-plantilla.html" title="Comenzando a crear la plantilla de nuestra página Web, ejemplo practico de diseño de sitios web, gratis.">Lección 2</a>
+      <a class="seccion13i03" href="../../ejemplo-con-divs/buscando-alojamiento.html" title="Buscando alojamiento para la página web">Lección 3</a>
+      <a class="seccion13i04" href="../../ejemplo-con-divs/el-pie-de-pagina.html" title="El pie de página de nuestra web">Lección 4</a>
+      <a class="seccion13i05" href="../../ejemplo-con-divs/partes-comunes.html" title="Las partes comunes de nuestra página web">Lección 5</a>
+      <a class="seccion13i06" href="../../ejemplo-con-divs/buscar-y-reemplazar.html" title="Buscar y Reemplazar Código">Lección 6</a>
+      <a class="seccion13i07" href="../../ejemplo-con-divs/notas-sobre-el-html-kit.html" title="Notas sobre el Html-Kit">Notas sobre el Html-Kit</a>
+      <a class="seccion13i08" href="../../ejemplo-con-divs/mas-sobre-capas.html" title="Más sobre Capas o Divs">Más sobre Capas</a>
+      </div>
+    </div>
+    <div id="navegador">
+      <ul><li><b>Anuncios:</b></li>
+      <li><a href="http://es.wix.com/eteamhtmles/es900x_a-c-e?utm_source=media_buying&utm_medium=paid_referral&utm_campaign=ma_es_comocreartuweb.com&experiment_id=comocreartuweb.com^txtlink_1^link1-cupw_900x_a-c-e">Crear una p&aacute;gina web</a></li>
+      <li><a href="http://es.wix.com/eteamhtmles/300-es?utm_source=media_buying&utm_medium=paid_referral&utm_campaign=ma_es_comocreartuweb.com&experiment_id=comocreartuweb.com^txtlink_2^link2-pwg_300-es">P&aacute;gina web gratis</a></li>
+      <li><a href="http://es.wix.com/eteamhtmles/es900x_a-c-e?utm_source=media_buying&utm_medium=paid_referral&utm_campaign=ma_es_comocreartuweb.com&experiment_id=comocreartuweb.com^txtlink_3^link3-cdupw_900x_a-c-e">Como dise&ntilde;ar una p&aacute;gina web</a></li>
+      <li><a href="http://es.wix.com/eteamhtmles/es900x_a-c-e?utm_source=media_buying&utm_medium=paid_referral&utm_campaign=ma_es_comocreartuweb.com&experiment_id=comocreartuweb.com^txtlink_4^link4-pwg_es900x_a-c-e">P&aacute;ginas web gratuitas</a></li>
+      <li><a href="http://es.wix.com/eteamhtmles/es900x_a-c-e?utm_source=media_buying&utm_medium=paid_referral&utm_campaign=ma_es_comocreartuweb.com&experiment_id=comocreartuweb.com^txtlink_5^link5-chuw_es900x_a-c-e">Como hacer una web</a></li></ul>
+    </div>
+    <div id="sigueme">
+      <a href="http://twitter.com/home?status=mirando-el-html+http%3A%2F%2Fwww.comocreartuweb.com%2Fejemplo-con-divs%2Fweb-paso-a-paso%2Fmirando-el-html.html" title="Comparte este art&iacute;culo con tus amigos de Twitter" target="_blank"><img src="/imagenes/comunes/estilo1024/sigueme-twitter.png" width="16" height="16" alt="Comparte este art&iacute;culo en tu red Twitter"></a>
+      <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.comocreartuweb.com%2Fejemplo-con-divs/web-paso-a-paso/mirando-el-html.html&amp;title=C%F3mo+ver+el+c%F3digo+Html+de+cualquier+p%E1gina+web" title="Comparte este art&iacute;culo con tus amigos de Facebook" target="_blank"><img src="/imagenes/comunes/estilo1024/sigueme-facebook.png" width="16" height="16" alt="Comparte este art&iacute;culo en tu red Facebook"></a>
+      <a href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.comocreartuweb.com%2Fejemplo-con-divs/web-paso-a-paso/mirando-el-html.html&amp;title=C%F3mo+ver+el+c%F3digo+Html+de+cualquier+p%E1gina+web&amp;annotation=Cómo ver el código Html de cualquier página web para estudiar su funcionamiento" title="Comparte este art&iacute;culo con tus amigos de Google" target="_blank"><img src="/imagenes/comunes/estilo1024/sigueme-google.png" width="16" height="16" alt="Comparte este art&iacute;culo en tu red Google"></a>
+      <a href="http://meneame.net/submit.php?url=http://www.comocreartuweb.com/ejemplo-con-divs/web-paso-a-paso/mirando-el-html.html" target="_blank"><img alt="Enviar '' a Meneame.net" width="16" height="16" src="http://www.comocreartuweb.com/imagenes/comunes/estilo1024/meneame-cctw.jpg" title="Enviar art&iacute;culo a Meneame"></a>
+    </div>
+  </div>
+</div>
+
+<div id="forolink">
+  <a href="http://www.comocreartuweb.com/consultas/consultas.php" title="Foro de dudas y consultas sobre c&oacute;mo hacer p&aacute;ginas web gratis">Foro CCTW</a>
+</div>
+
+<script>
+  (function() {
+    var po = document.createElement('script'); po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- WIX Remarketing List Code-->
+<!-- Google Code for comocreartuweb Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1011705186;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "POzeCM72uwMQ4sq14gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1011705186/?label=POzeCM72uwMQ4sq14gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+</body>
+
+</html>
